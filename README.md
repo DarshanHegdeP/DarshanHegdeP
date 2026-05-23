@@ -1,98 +1,164 @@
-# Hi 👋 I'm Darshan Hegde
+<h1 align="center">Hi 👋, I'm Darshan Hegde</h1>
+<h3 align="center">Backend-Focused Full Stack Developer | MERN • Spring Boot • Java</h3>
 
-🎓 MCA Student | Full Stack & Backend Developer  
-💻 MERN Stack • Java • Spring Boot • React  
-🔐 Backend-focused developer with strong full-stack experience  
-🚀 Building scalable web applications and AR-based solutions
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Focused+Full+Stack+Developer;MERN+Stack+%7C+Spring+Boot+%7C+React;Building+Scalable+Web+Applications;Passionate+About+Backend+Engineering;AR+%26+Simulation+Developer" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 🔭 Working on **Full Stack (MERN) and Backend-heavy applications**
-- 🌱 Learning **advanced backend patterns, security & DevOps basics**
-- 🧠 Strong foundation in **OOP, REST APIs, Databases & System Design**
-- 💬 Ask me about **MERN, Java, Spring Boot, React, APIs**
-- 🎯 Career Goal: **Software Engineer / Full Stack Backend Developer**
+## 🚀 About Me
+
+🎓 MCA Student passionate about backend engineering and scalable application development.  
+💻 Strong experience in building full-stack applications using MERN Stack and Java ecosystems.  
+🔐 Interested in backend architecture, RESTful APIs, authentication systems, security tools, and scalable system design.  
+🧠 Strong foundation in OOP, databases, API integration, and modern web technologies.  
+🚀 Currently improving skills in backend optimization, DevOps basics, and secure application development.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,c,cpp,cs" />
+</p>
 
-### 🔹 Full Stack (MERN)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?style=plastic&logo=node.js&logoColor=white)
+### 🌐 Full Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
 
-### 🔹 Backend (Java Ecosystem)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
+### ⚙️ Backend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,mysql" />
+</p>
 
-### 🔹 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens" />
+</p>
 
-### 🔹 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
 
-### 🔹 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=plastic&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white)
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
+</p>
 
-### 🔹 AR / Simulation
-![Unity](https://img.shields.io/badge/Unity-000000.svg?style=plastic&logo=unity&logoColor=white)
-![Augmented Reality](https://img.shields.io/badge/Augmented_Reality-5C2D91?style=plastic)
+### 🧠 AR / Simulation
+<p>
+  <img src="https://skillicons.dev/icons?i=unity" />
+</p>
 
----
-
-## 🚀 Projects
-
-### 🚌 Online Bus Reservation System (MERN)
-- Full-stack web application
-- Features: Bus search, ticket booking, cancellation
-- Stack: **MongoDB, Express, React, Node.js**
-- Focus: **Authentication, REST APIs, backend logic**
-
-### 🏥 Healthcare Management System (MERN)
-- Full-stack healthcare platform
-- Features: Patient records, appointments, role-based access
-- Stack: **MERN**
-- Focus: **Database modeling, secure APIs**
-
-### 🔐 Smart Pentesting Platform
-- Web-based platform for learning security tools
-- Tools integrated: **Nmap, Nikto, Gobuster**
-- Focus: **Backend integration & security awareness**
-
-### 🧠 AR Human Anatomy Application
-- Augmented Reality app for visualizing human anatomy
-- Built using **Unity & C#**
-- Focus: **AR interaction, 3D models, UI systems**
+<p>
+  <img src="https://img.shields.io/badge/Augmented%20Reality-5C2D91?style=for-the-badge" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DarshanHegdeP&show_icons=true&theme=tokyonight)
+## 🚌 Online Bus Reservation System
+### Full Stack MERN Application
+- Designed RESTful APIs for ticket booking workflows
+- Implemented authentication and seat availability management
+- Developed responsive frontend using React and Bootstrap
+- Focused on backend business logic and API integration
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DarshanHegdeP&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DarshanHegdeP&layout=compact&theme=tokyonight)
-
+**Tech Stack:** MongoDB • Express.js • React • Node.js
 
 ---
 
-⭐ *Focused on building robust backend systems with strong full-stack foundations.*
+## 🏥 Healthcare Management System
+### Secure MERN Healthcare Platform
+- Developed patient and appointment management workflows
+- Implemented role-based authentication and protected APIs
+- Designed scalable database schema for healthcare data
+- Focused on secure backend architecture
+
+**Tech Stack:** MongoDB • Express.js • React • Node.js
+
+---
+
+## 🔐 Smart Pentesting Platform
+### Security Learning & Scanning Platform
+- Integrated tools like Nmap, Nikto, and Gobuster
+- Built backend modules for automated scanning workflows
+- Focused on backend integration and security awareness
+- Designed web interface for learning penetration testing basics
+
+**Tech Stack:** Node.js • Express • Security Tools
+
+---
+
+## 🧠 AR Human Anatomy Application
+### Unity-Based Augmented Reality App
+- Built interactive AR visualization system for anatomy learning
+- Implemented UI interactions and 3D object handling
+- Focused on AR interaction systems and simulation experience
+- Developed using Unity and C#
+
+**Tech Stack:** Unity • C# • AR
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DarshanHegdeP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=DarshanHegdeP&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DarshanHegdeP&layout=compact&theme=tokyonight&hide=ShaderLab,HTML,CSS"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Darshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DarshanHegdeP&theme=tokyo-night)](https://github.com/DarshanHegdeP)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DarshanHegdeP&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/DarshanHegdeP">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DarshanHegdeP&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<h3 align="center">
+⭐ Focused on building scalable backend systems with strong full-stack foundations ⭐
+</h3>

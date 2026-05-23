@@ -86,11 +86,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarshanHegdeP&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DarshanHegdeP&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DarshanHegdeP&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanHegdeP&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DarshanHegdeP&layout=compact&theme=tokyonight)
 
 
 ---

@@ -59,52 +59,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🚌 Online Bus Reservation System
-### Full Stack MERN Application
-- Designed RESTful APIs for ticket booking workflows
-- Implemented authentication and seat availability management
-- Developed responsive frontend using React and Bootstrap
-- Focused on backend business logic and API integration
-
-**Tech Stack:** MongoDB • Express.js • React • Node.js
-
----
-
-## 🏥 Healthcare Management System
-### Secure MERN Healthcare Platform
-- Developed patient and appointment management workflows
-- Implemented role-based authentication and protected APIs
-- Designed scalable database schema for healthcare data
-- Focused on secure backend architecture
-
-**Tech Stack:** MongoDB • Express.js • React • Node.js
-
----
-
-## 🔐 Smart Pentesting Platform
-### Security Learning & Scanning Platform
-- Integrated tools like Nmap, Nikto, and Gobuster
-- Built backend modules for automated scanning workflows
-- Focused on backend integration and security awareness
-- Designed web interface for learning penetration testing basics
-
-**Tech Stack:** Node.js • Express • Security Tools
-
----
-
-## 🧠 AR Human Anatomy Application
-### Unity-Based Augmented Reality App
-- Built interactive AR visualization system for anatomy learning
-- Implemented UI interactions and 3D object handling
-- Focused on AR interaction systems and simulation experience
-- Developed using Unity and C#
-
-**Tech Stack:** Unity • C# • AR
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -146,18 +100,12 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DarshanHegdeP&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
----
 
 <h3 align="center">
 ⭐ Focused on building scalable backend systems with strong full-stack foundations ⭐
